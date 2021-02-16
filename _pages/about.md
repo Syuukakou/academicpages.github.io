@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 
----------
 ## Profile Information
 - Affiliation: 
   1. [Tokyo Denki University](https://www.dendai.ac.jp/en/) Information, Communication and Media Design Engineering Ph.D. Student
