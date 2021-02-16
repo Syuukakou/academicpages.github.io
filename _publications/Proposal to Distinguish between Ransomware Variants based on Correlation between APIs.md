@@ -6,7 +6,7 @@ abstract: 'When Ransomware is run, be sure to use the API to delete files, encry
 date: 2018-09-20
 venue: '2018-SPT-30. No. 11, pp. 1 - 6'
 paperurl: <br>'http://id.nii.ac.jp/1001/00191415/'
-citation: <br><i>Jiaxing Zhou, Miyuki Hirose, Yoshio Kakizaki, and Atsuo Inomata. (2018). Proposal to Distinguish between Ransomware Variants based on Correlation between APIs. Security Pyschology & Trust (SPT), 2018(11), 1-6.
+citation: <br>Jiaxing Zhou, Miyuki Hirose, Yoshio Kakizaki, and Atsuo Inomata. (2018). Proposal to Distinguish between Ransomware Variants based on Correlation between APIs. Security Pyschology & Trust (SPT), 2018(11), 1-6.
 ---
 Author:
 Jiaxing Zhou, [Miyuki Hirose](https://ra-data.dendai.ac.jp/tduhp/KgApp?kyoinId=ymbsyggiggy), [Yoshio Kakizaki](https://researchmap.jp/kakizakiyoshio), and [Atsuo Inomata](https://researchmap.jp/inomata_osaka?lang=en)
