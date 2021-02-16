@@ -2,10 +2,10 @@
 title: "Proposal to Distinguish between Ransomware Variants based on Correlation between APIs"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+abstract: 'When Ransomware is run, be sure to use the API to delete files, encrypt them, or perform other actions. Furthermore, if it is a Ransomware subspecies belonging to the same family, the type of API used for the parent process of Ransomware when executed is the same. In this paper, we focus on the frequency of API called by the parent process when Ransomware is executed, find the correlation coefficient between APIs, and we propose a method to distinguish family of Ransomware subspecies using machine learning with its correlation coefficient as feature quantity.'
 date: 2018-09-20
 venue: '2018-SPT-30. No. 11, pp. 1 - 6'
-<br>paperurl: 'http://id.nii.ac.jp/1001/00191415/'
+paperurl: <br>'http://id.nii.ac.jp/1001/00191415/'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 Author:
