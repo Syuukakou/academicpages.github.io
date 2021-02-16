@@ -1,0 +1,14 @@
+---
+title: "Evaluation to Classify Ransomware Variants based on Correlations between APIs"
+collection: publications
+permalink: /publication/Evaluation to Classify Ransomware Variants based on Correlations between APIs
+Abstract: 'Research into ransomware subspecies classification is ongoing in many organizations, but it is proving difficult to extract feature quantities from specimens and the accuracy achieved thus far remains unsatisfactory. In this paper, we propose a method to classify subspecies that using the correlation coefficient between API groups calculated by Application Programming Interfaces (API) frequencies as the Support Vector Machines’ (SVM) feature quantities. The motivation for using the correlation coefficient between API groups as the feature quantity is that different ransomware families have different behavior patterns that can be reflected by the correlation between API groups. Based on the results of an evaluation experiment, we found that the accuracy of the proposed method was 98%, proving that the subspecies were classified correctly. Otherwise, it is determined that the contribution of each API for classifying ransomware families is different via analysis of the contribution of API.'
+date: 2020-02-26
+venue: 'pp. 465-472'
+paperurl: 'https://www.scitepress.org/Link.aspx?doi=10.5220/0008959904650472'
+citation: <br>'Zhou, J., Hirose, M., Kakizaki, Y., & Inomata, A. (2020). Evaluation to Classify Ransomware Variants based on Correlations between APIs. In <i>ICISSP <.i>(pp. 465-472).'
+---
+Abstract:
+  <br>*Research into ransomware subspecies classification is ongoing in many organizations, but it is proving difficult to extract feature quantities from specimens and the accuracy achieved thus far remains unsatisfactory. In this paper, we propose a method to classify subspecies that using the correlation coefficient between API groups calculated by Application Programming Interfaces (API) frequencies as the Support Vector Machines’ (SVM) feature quantities. The motivation for using the correlation coefficient between API groups as the feature quantity is that different ransomware families have different behavior patterns that can be reflected by the correlation between API groups. Based on the results of an evaluation experiment, we found that the accuracy of the proposed method was 98%, proving that the subspecies were classified correctly. Otherwise, it is determined that the contribution of each API for classifying ransomware families is different via analysis of the contribution of API.*
+
+Recommended citation: Zhou, J., Hirose, M., Kakizaki, Y., & Inomata, A. (2020). Evaluation to Classify Ransomware Variants based on Correlations between APIs. In <i>ICISSP </i>(pp. 465-472).
