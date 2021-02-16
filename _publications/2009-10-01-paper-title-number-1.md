@@ -10,12 +10,9 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 ---
 Author:
 Jiaxing Zhou, [Miyuki Hirose](https://ra-data.dendai.ac.jp/tduhp/KgApp?kyoinId=ymbsyggiggy), [Yoshio Kakizaki](https://researchmap.jp/kakizakiyoshio), and [Atsuo Inomata](https://researchmap.jp/inomata_osaka?lang=en)
-<details>
-<summary>Abstract:</summary>
-<pre><code>
-When Ransomware is run, be sure to use the API to delete files, encrypt them, or perform other actions. Furthermore, if it is a Ransomware subspecies belonging to the same family, the type of API used for the parent process of Ransomware when executed is the same. In this paper, we focus on the frequency of API called by the parent process when Ransomware is executed, find the correlation coefficient between APIs, and we propose a method to distinguish family of Ransomware subspecies using machine learning with its correlation coefficient as feature quantity.
-</code></pre>
-</details>
+Abstract:
+> When Ransomware is run, be sure to use the API to delete files, encrypt them, or perform other actions. Furthermore, if it is a Ransomware subspecies belonging to the same family, the type of API used for the parent process of Ransomware when executed is the same. In this paper, we focus on the frequency of API called by the parent process when Ransomware is executed, find the correlation coefficient between APIs, and we propose a method to distinguish family of Ransomware subspecies using machine learning with its correlation coefficient as feature quantity.
+
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
