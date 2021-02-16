@@ -22,3 +22,8 @@ redirect_from:
   - Apr, 2020 - now &emsp;&emsp;&emsp;  [Tokyo Denki University](https://www.dendai.ac.jp/en/) Ph.D. 
   - Apr, 2018 - Mar, 2020&emsp;[Tokyo Denki University](https://www.dendai.ac.jp/en/) Master
   - Sep, 2011 - July, 2016&emsp;[Anqing Normal University](https://www.aqnu.edu.cn/) Bachelor
+- Programming Language:
+  - Python
+- Tools:
+  - Radare2
+  - readelf
