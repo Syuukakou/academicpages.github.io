@@ -38,7 +38,7 @@ redirect_from:
  </figure>
  
 - Programming Language:
-  - <i class="fab fa-python" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i> Python
+  - <i class="fab fa-python" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i> Python {: #tanuki-orange}
 - Tools:
   - Radare2
   - readelf
