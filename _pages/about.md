@@ -37,9 +37,8 @@ redirect_from:
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3437.240826838022!2d117.0458533154588!3d30.514228603180864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34338c44cf19ac2b%3A0xbd7bc36f968762c!2z5a6J5oW25bir56-E5aSn5a2m!5e0!3m2!1sja!2sjp!4v1613563268539!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
  </figure>
  
-- Programming Language:
-  - <i class="fab fa-python" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i> Python 
-    {: #tanuki-orange}
-- Tools:
+- <i class="fas fa-code" style="color:rgb(2, 35, 247); font-size:.85em" aria-hidden="true"></i> Programming Language:
+  - <i class="fab fa-python" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Python 
+- <i class="fas fa-tools" style="color:rgb(15, 15, 15); font-size:.85em" aria-hidden="true"></i> Tools:
   - Radare2
   - readelf
