@@ -39,6 +39,6 @@ redirect_from:
  
 - <i class="fas fa-code" style="color:rgb(2, 35, 247); font-size:.85em" aria-hidden="true"></i> Programming Language:
   - <i class="fab fa-python" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Python 
-- <i class="fas fa-tools" style="color:rgb(15, 15, 15); font-size:.85em" aria-hidden="true"></i> Tools:
+- <i class="fas fa-tools"></i> Tools:
   - Radare2
   - readelf
