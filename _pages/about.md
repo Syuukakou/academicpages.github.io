@@ -10,11 +10,11 @@ redirect_from:
 
 
 ## Profile Information
-- Name: &emsp; Jiaxing Zhou (chinese) / Kakou Syuu (japanese)
+- Name: Jiaxing Zhou (chinese) / Kakou Syuu (japanese)
 - Country of Citizenship: <i class="fas fa-map-marker-alt" style="color:rgb(12, 12, 13); font-size:.85em" aria-hidden="true"></i> [China](https://goo.gl/maps/tTsGg91ARqmZEdq8A)
 - Language: Chinese, Japanese, English
 - Affiliation: 
-  1. [Tokyo Denki University](https://www.dendai.ac.jp/en/) Information, Communication and Media Design Engineering Ph.D. Student
+  1. [Tokyo Denki University](https://www.dendai.ac.jp/en/) Information, Communication and Media Design Engineering [Information Security Lab](https://tdu-isl.github.io/home/index.html) Ph.D. Student
   2. [NICT (National Institute of Information and Communications Technology)](https://www.nict.go.jp/en/index.html) Research Assistant
 - Research Interests:
   - Information security
